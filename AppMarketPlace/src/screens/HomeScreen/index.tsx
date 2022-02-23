@@ -3,6 +3,7 @@ import Elipse from '../../assets/image/GetStartedEllipse.svg';
 import {CardCategory} from './CardCategory';
 import {CardDesconto} from './CardDesconto';
 import {HeaderSection} from './HeaderSection';
+import {SpecialDealSection} from './SpecialDealSection';
 
 import {Container, ContainerElipse, ContainerScroll} from './styles';
 
@@ -17,6 +18,7 @@ export function HomeScreen() {
                 <ContainerScroll>
                     <CardDesconto />
                     <CardCategory />
+                    <SpecialDealSection />
                 </ContainerScroll>
             </Container>
         </>
