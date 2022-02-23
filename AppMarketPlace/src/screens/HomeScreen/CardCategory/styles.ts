@@ -10,7 +10,7 @@ export const Container = styled.View`
 export const Title = styled.Text`
     color: ${({theme}) => theme.colors.gray2};
     font-family: ${({theme}) => theme.fonts.Roboto};
-    font-size: ${RFValue(24)}px;
-    font-weight: 900;
+    font-size: ${RFValue(20)}px;
+    font-weight: 700;
     margin-bottom: ${RFValue(20)}px;
 `;
