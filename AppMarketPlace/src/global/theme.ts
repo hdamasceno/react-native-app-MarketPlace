@@ -4,6 +4,7 @@ export default {
         white: '#FFFFFF',
         blue: '#2D9CDB',
         gray2: '#4F4F4F',
+        gray4: '#F2F2F2',
         borderGray: '#BDBDBD',
     },
     fonts: {
